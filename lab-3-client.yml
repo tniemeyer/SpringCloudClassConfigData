@@ -1,4 +1,3 @@
 ---
-spring:
-  lucky-word: Clover
+lucky-word: Clover
   
